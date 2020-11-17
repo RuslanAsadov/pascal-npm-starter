@@ -1,0 +1,13 @@
+{
+  "name": "pascal-workspace-npm-scripts",
+  "version": "1.0.0",
+  "description": "Runs pascal npm scripts",
+  "private": true,
+  "main": "main.pas",
+  "scripts": {
+    "start": "fpc main.pas; clear; ./main; rm main main.o;"
+  },
+  "keywords": [],
+  "author": "Asadov Ruslan <ruslanasadov32@gmail.com>",
+  "license": "ISC"
+}
