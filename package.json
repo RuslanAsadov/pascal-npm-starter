@@ -5,7 +5,7 @@
   "private": true,
   "main": "main.pas",
   "scripts": {
-    "start": "start": "fpc main.pas && (clear; ./main; rm main main.o)"
+    "start": "fpc main.pas && (clear; ./main; rm main main.o)"
   },
   "keywords": ['Pascal', 'nodejs'],
   "author": "Asadov Ruslan <ruslanasadov32@gmail.com>",
