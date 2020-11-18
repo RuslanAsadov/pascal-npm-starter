@@ -7,7 +7,6 @@
   "scripts": {
     "start": "fpc main.pas && (clear; ./main; rm main main.o)"
   },
-  "keywords": ['Pascal', 'nodejs'],
   "author": "Asadov Ruslan <ruslanasadov32@gmail.com>",
   "license": "ISC"
 }
